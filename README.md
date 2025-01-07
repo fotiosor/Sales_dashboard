@@ -37,7 +37,7 @@ Ce projet est une application interactive de tableau de bord développée avec *
 
 1. Clonez ce dépôt sur votre machine locale :  
    ```bash
-   git clone https://github.com/votre-utilisateur/sales-dashboard.git
+   git clone https://github.com/fotiosor/sales-dashboard.git
 
 
 👨‍💻 Auteur
